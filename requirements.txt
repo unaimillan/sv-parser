@@ -1,0 +1,2 @@
+tree-sitter==0.23.2
+tree-sitter-verilog @ https://github.com/gmlarumbe/tree-sitter-systemverilog/archive/refs/heads/master.zip
